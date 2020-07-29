@@ -6,7 +6,7 @@
   "authors": {
     "name": "Konsta Laakso",
     "email": "konsta.laakso@gmail.com"
-  },
+  },  
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
